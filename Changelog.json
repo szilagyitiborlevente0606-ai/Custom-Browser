@@ -1,8 +1,11 @@
 {
-  "version": "1.4",
-  "download_url": "https://github.com/szilagyitiborlevente0606-ai/Custom-Browser/releases/download/version/browser.exe",
+  "version": "1.0",
+  "security_patch": "2026-04-16",
+  "status": "Stable",
   "changes": [
     "Bug fixes",
-    "UI improvements"
-  ]
+    "proper changelog system",
+    "UI polish"
+  ],
+  "download_url": "https://github.com/szilagyitiborlevente0606-ai/Custom-Browser/releases/download/version/browser.exe"
 }
