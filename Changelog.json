@@ -1,0 +1,13 @@
+{
+  "version": "Ultimate Chrome Build",
+  "security_patch": "2026-04-16",
+  "status": "Stable",
+  "changes": [
+    "Browser base system",
+    "Tabs system",
+    "Download manager",
+    "Slim download shelf",
+    "Pause/Resume/Cancel downloads",
+    "Settings + JSON changelog"
+  ]
+}
