@@ -1,11 +1,11 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "security_patch": "2026-04-16",
   "status": "Stable",
   "changes": [
-    "Bug fixes",
-    "proper changelog system",
-    "UI polish"
+    "Made a runnable .exe file",
+    "Added download menu ",
+    "Fixed some ui bugs lol"
   ],
   "download_url": "https://github.com/szilagyitiborlevente0606-ai/Custom-Browser/releases/download/version/browser.exe"
 }
