@@ -4,8 +4,8 @@
   "security_patch": "2026-04-16",
   "download_url": "https://github.com/.../setup.exe",
   "changes": [
-    "Chrome UI update",
-    "Download system fix",
-    "Performance improvements"
+    "Update fixed some changelog bugs",
+    "Fixed a bug where if you click cancel it will crash the browser",
+    "I recommend downloading the latest version from github!"
   ]
 }
