@@ -1,11 +1,11 @@
 {
-  "version": "1.7",
-  "security_patch": "2026-04-16",
-  "status": "Stable",
+  "version": "1.6",
+  "min_supported": "1.2",
+  "security_patch": "2026-04-17",
+  "download_url": "https://github.com/.../setup.exe",
   "changes": [
-    "Made a runnable .exe file",
-    "Added download menu ",
-    "i recomend updateing to the latest release"
-  ],
-  "download_url": "https://github.com/szilagyitiborlevente0606-ai/Custom-Browser/releases/download/version/browser.exe"
+    "Chrome UI update",
+    "Download system fix",
+    "Performance improvements"
+  ]
 }
