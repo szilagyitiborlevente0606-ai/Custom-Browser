@@ -1,10 +1,10 @@
 {
-  "min_client_version": "1.7",
-  "latest_version": "1.7",
-  "security_patch": "2026-04-23",
+  "latest_version": "1.8",
+  "latest_patch_date": "2026-04-23",
   "changes": [
+    "UI redesign",
     "Updated Browser security patch to April 23 increased browser security",
-    "The latest patch only apply to 1.7 and 1.8",
+    "history system added",
     "I recommend downloading the latest version from github!"
   ]
 }
