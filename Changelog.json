@@ -1,13 +1,13 @@
 {
   "latest_version": "1.8",
   "latest_patch_date": "2026-04-23",
-  "your_patch_date": "2026-04-01",
+  "your_patch_date": "2026-04-16",
 
   "changes": [
-    "UI redesign",
-    "download system rewritten (Chrome-style)",
+    "Updated Browser security patch to April 23 increased browser security",
+    "",
     "page history added",
-    "settings reworked (Yours vs Latest)",
-    "bug fixes and stability improvements"
+    "refined changelog menu",
+    I recommend downloading the latest version from github!"
   ]
 }
