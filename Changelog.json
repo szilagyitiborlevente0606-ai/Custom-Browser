@@ -4,7 +4,7 @@
   "security_patch": "2026-04-23",
   "changes": [
     "Updated Browser security patch to April 23 increased browser security",
-    "There are bugs in this version this version is in PRE-RELEASE for now",
+    "The latest patch only apply to 1.7 and 1.8",
     "I recommend downloading the latest version from github!"
   ]
 }
