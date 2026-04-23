@@ -1,11 +1,11 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "min_supported": "1.2",
-  "security_patch": "2026-04-16",
+  "security_patch": "2026-04-23",
   "download_url": "https://github.com/.../setup.exe",
   "changes": [
-    "Update fixed some changelog bugs",
-    "Fixed a bug where if you click cancel it will crash the browser",
+    "Updated Browser security patch to April 23 increased browser security",
+    "There are bugs in this version this version is in PRE-RELEASE for now",
     "I recommend downloading the latest version from github!"
   ]
 }
