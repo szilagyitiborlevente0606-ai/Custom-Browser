@@ -1,8 +1,7 @@
 {
-  "version": "1.8",
-  "min_supported": "1.2",
+  "min_client_version": "1.2",
+  "latest_version": "1.8",
   "security_patch": "2026-04-23",
-  "download_url": "https://github.com/.../setup.exe",
   "changes": [
     "Updated Browser security patch to April 23 increased browser security",
     "There are bugs in this version this version is in PRE-RELEASE for now",
